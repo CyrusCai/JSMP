@@ -1,0 +1,2 @@
+# JSMP
+JavaScript Mentoring Program
