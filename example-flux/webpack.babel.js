@@ -2,7 +2,7 @@ import path from 'path';
 import webpack from 'webpack';
 import merge from 'webpack-merge';
 
-import shared from './etc/webpack.shared';
+import shared from '../etc/webpack.shared';
 
 
 const src = path.join(__dirname, 'src');
